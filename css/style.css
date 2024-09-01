@@ -3,7 +3,9 @@ body {
     font-size: 30px;
     margin: 64px;
 }
-img {
-    width: 500px;
-    height: auto;
-}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
