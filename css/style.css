@@ -2,6 +2,7 @@ body {
     background-color: paleturquoise;
     font-size: 30px;
     margin: 64px;
+    padding-bottom: 128px;
 }
 .center {
     display: block;
@@ -30,4 +31,9 @@ body {
 
 .div-1 {
     position: relative; 
-    top: 100px; }
+    top: 100px; 
+    border-radius: 64px;
+}
+.img {
+    padding:64px;
+}
